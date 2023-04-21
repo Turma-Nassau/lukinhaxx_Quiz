@@ -4,7 +4,7 @@
 Projeto criado para a matéria de Códigos de Alta Performance Web. Um Quiz.
 
 ## :books: Funcionalidades
-* <b>Funcionalidades </b>:Neste site, o usuário responder às perguntas de um quiz.
+* <b>Funcionalidades </b>:Neste site, o usuário poderá responder às perguntas de um quiz.
 ## :wrench: Tecnologias utilizadas
 * HTML
 * CSS
