@@ -1,9 +1,6 @@
 const express = require('express');
 const server = express();
 
-const swaggerFile = require('../swagger_output.json');
-const swaggerUi = require('swagger-ui-express');
-
 server.get('/', function(req, res){
   res.send("Seja bem-vindo ao meu Quiz!")
 });
