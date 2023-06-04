@@ -1,4 +1,4 @@
-<h1 align="center">Quiz de Futebol</h1>
+<h1 align="center">Quiz de Geografia</h1>
 
 ## :memo: Descrição
 Projeto criado para a matéria de Códigos de Alta Performance Web. Um Quiz.
